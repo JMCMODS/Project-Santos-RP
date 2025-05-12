@@ -1,1 +1,18 @@
-**This is bold text**
+To install PSRP make sure you have all the requirements first:
+
+1. http://www.dev-c.com/gtav/scripthookv/
+2. https://github.com/scripthookvdotnet/scripthookvdotnet-nightly/releases/tag/v3.7.0-nightly.20
+3. https://github.com/Bob74/iFruitAddon2/releases/tag/v3.0.1
+4. https://www.gta5-mods.com/tools/lemonui (version 2.12)
+5. https://openiv.com
+6. https://www.gta5-mods.com/player/mp-stub-clothes-patch
+
+
+Once you have installed the requirements you can install my mod by following these steps:
+
+1. Download PSRP.
+2. Open up the downloaded zip.
+3. Locate the Fresh Install folder.
+4. Open up OPENIV and turn on edit mode.
+5. Drag PART_1 from the fresh install folder into OPENIV, Choose Game folder when asked and install.
+6. Drag PART_2 from the fresh install folder into OPENIV, Choose Mods folder when asked and install.

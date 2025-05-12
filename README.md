@@ -20,7 +20,7 @@ Aiming to bring you a FiveM type of expierience.
 * Drag **PART_2** into OPENIV choose **MODS** folder if asked
 
 ## Mod Guide
-* [Features](http://www.dev-c.com/gtav/scripthookv/)
+* [Features](https://github.com/JMCMODS/Project-Santos-RP/blob/main/FEATURES)
 * [FAQ](http://www.dev-c.com/gtav/scripthookv/)
 * [Mod Suggestions](http://www.dev-c.com/gtav/scripthookv/)
   

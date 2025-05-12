@@ -1,4 +1,4 @@
-# Project Sanot RP<br>[![Patreon][patreon-img]][patreon-url] [![Discord][discord-img]][discord-url] [![Youtube][youtube-img]][youtube-url]
+# Project Santos RP<br>[![Patreon][patreon-img]][patreon-url] [![Discord][discord-img]][discord-url] [![Youtube][youtube-img]][youtube-url]
 **PSRP** is the early stages of a all in one overhaul mod for GTA5 singleplayer.\
 Aiming to bring you a FiveM type of expierience.
 
@@ -6,7 +6,14 @@ Aiming to bring you a FiveM type of expierience.
 * [Gta5Mods](https://www.gta5-mods.com/scripts/project-santos)
 * [Patreon](https://www.patreon.com/c/jmcmods/membership)
 
-
+## Requirements
+* [ScripthookV](http://www.dev-c.com/gtav/scripthookv/)
+* [ScripthookVDotNet3](https://github.com/scripthookvdotnet/scripthookvdotnet-nightly/releases/tag/v3.7.0-nightly.20)
+* [LemonUI](https://www.gta5-mods.com/tools/lemonui)
+* [IFruitAddon2](https://github.com/Bob74/iFruitAddon2/releases/tag/v3.0.1)
+* [MP Stubs Patch](https://www.gta5-mods.com/player/mp-stub-clothes-patch)
+  
+## Installation
 
 
 

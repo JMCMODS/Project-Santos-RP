@@ -14,9 +14,16 @@ Aiming to bring you a FiveM type of expierience.
 * [MP Stubs Patch](https://www.gta5-mods.com/player/mp-stub-clothes-patch)
   
 ## Installation
+* Open the Fresh Install Folder
+* Open OPENIV and turn on edit mode
+* Drag **PART_1** into OPENIV choose **GAME** folder if asked
+* Drag **PART_2** into OPENIV choose **MODS** folder if asked
 
-
-
+## Mod Guide
+* [Features](http://www.dev-c.com/gtav/scripthookv/)
+* [FAQ](http://www.dev-c.com/gtav/scripthookv/)
+* [Mod Suggestions](http://www.dev-c.com/gtav/scripthookv/)
+  
 [patreon-img]: https://img.shields.io/badge/support-patreon-FF424D.svg
 [patreon-url]: https://https://www.patreon.com/c/jmcmods/membership
 [discord-img]: https://img.shields.io/badge/discord-join-7289DA.svg

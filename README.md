@@ -1,0 +1,1 @@
+![Static Badge](https://img.shields.io/badge/Donate-red?style=flat&label=Support%20On%20Patreon&labelColor=%230d49a8&color=%230da813&link=%5B!%5BButton%20Example%5D%5D%5Bhttps%3A%2F%2Fwww.patreon.com%2Fc%2Fjmcmods%2Fmembership%5D)
